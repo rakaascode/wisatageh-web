@@ -9,7 +9,7 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer Anda:
 1. **Clone Repository**
    ```bash
    git clone https://github.com/RakaAgiSaputra/PW2-22B-ONDEMANDE.git
-   cd PW2-22B-ONDEMANDE/Program/wisatageh-app
+   cd PW2-22B-ONDEMANDE/wisatageh-app
    ```
 
 2. **Instal package npm**
@@ -54,14 +54,12 @@ PW2-22B-ONDEMANDE/
 │   ├── Zani Eko Fitrianto/
 │   ├── Aqgit Ariya Kusuma/
 │   └── Noted.txt
-├── Program/
-│   ├── wisatageh-app/
-│   │   ├── app/
-│   │   └── public/
-│   │   └── prisma/
-│   │   └── utils/
-│   │   └── components/
-│   │   └── .env
+├── wisatageh-app/
+│   ├── app/
+│   └── public/
+│   └── prisma/
+│   └── utils/
+│   └── components/
 └── README.md
 ```
 
